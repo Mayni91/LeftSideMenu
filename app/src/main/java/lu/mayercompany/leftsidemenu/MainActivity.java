@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        String i;
+        String i = "hello";
 
 
         String nicolas = "nicolas";
